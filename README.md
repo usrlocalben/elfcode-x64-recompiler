@@ -13,5 +13,5 @@ Recompiled to x86-64:
 ```
 elfcode-x64-recompiler % time ./p2.exe < input.txt
 13943296
-./p2.exe < input.txt  1.090 total
+./p2.exe < input.txt  0.828 total
 ```
